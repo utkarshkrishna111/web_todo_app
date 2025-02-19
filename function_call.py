@@ -1,5 +1,3 @@
-import os
-
 def get_todos(filepath = (os.path.join(os.path.dirname(__file__), 'todo.txt'))):
     """ Read a text file and return a list of
     to-do items."""

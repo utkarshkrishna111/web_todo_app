@@ -1,7 +1,7 @@
 """To run the script on local streamlit run <.py> directly on command line
 Title function return a title instance
 A callback function is a custom function
-st.session_state: gives values of """
+st.session_state: gives values of active session variables"""
 
 import streamlit as st
 import function_call
